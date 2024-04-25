@@ -374,6 +374,7 @@
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/Battle/BattleDialog.cs"
 "Assets/Scripts/Battle/BattleHud.cs"
 "Assets/Scripts/Battle/BattleSystem.cs"
 "Assets/Scripts/Battle/BattleUnit.cs"
